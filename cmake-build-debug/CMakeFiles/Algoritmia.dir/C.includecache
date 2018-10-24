@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Robson/CLionProjects/Algoritmia/39917_desafio1.h
+stdio.h
+-
+
+/Users/Robson/CLionProjects/Algoritmia/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+39917_desafio1.h
+/Users/Robson/CLionProjects/Algoritmia/39917_desafio1.h
+

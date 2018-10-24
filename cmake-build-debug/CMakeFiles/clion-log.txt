@@ -1,0 +1,4 @@
+/private/var/folders/tw/r6fttptn5qbdzjng_2cl0nrh0000gn/T/AppTranslocation/CB4689F7-1C18-4432-ACD7-BF34EC166ED9/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Robson/CLionProjects/Algoritmia
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Robson/CLionProjects/Algoritmia/cmake-build-debug
